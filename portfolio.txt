@@ -1,0 +1,11 @@
+My Portfolio
+------------
+Projects:
+1. Ecommerce Website
+   Description: Created a website
+   Technologies:html,css,js
+
+2. Automation on Zapier
+   Description: Class Anouncments
+   Technologies: zapier,twilio
+
